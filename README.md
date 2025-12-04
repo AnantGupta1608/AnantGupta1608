@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Anant Gupta, passionate about technology and always eager to learn and grow. I'm currently focused on building strong foundations in development and security.<br><br>🌱 Currently learning: MERN stack, Java, and Linux scripting.<br><br>🤝 Looking to collaborate on: backend development and cybersecurity projects.<br><br>💡 Ask me about: hackathon ideas!<br><br>✨ Fun fact: Always excited to brainstorm creative solutions and turn ideas into real-world projects.<br><br>Let’s connect and create something amazing together!
+Hi! I’m Anant Gupta, passionate about technology and always eager to learn and grow. I'm currently focused on building strong foundations in development and security.<br><br>🌱 Currently learning: Java, and Linux scripting.<br><br>🤝 Looking to collaborate on: backend development and cybersecurity projects.<br><br>💡 Ask me about: hackathon ideas!<br><br>✨ Fun fact: Always excited to brainstorm creative solutions and turn ideas into real-world projects.<br><br>Let’s connect and create something amazing together!
 
 
 ## 🌐 Socials:
